@@ -7,4 +7,5 @@ export const USER_MESSAGES = {
     UPDATED: "User updated successfully",
     NOT_FOUND: "User not found",
     DELETED: "User deleted successfully",
+    GET_ALL: "User fetched successfully",
 };
